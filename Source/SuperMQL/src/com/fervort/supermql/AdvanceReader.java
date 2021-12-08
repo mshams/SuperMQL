@@ -21,8 +21,6 @@ import org.jline.reader.MaskingCallback;
 import org.jline.reader.UserInterruptException;
 import org.jline.reader.impl.completer.*;
 
-
-
 public class AdvanceReader {
 
 	SuperMQLSupport gss;

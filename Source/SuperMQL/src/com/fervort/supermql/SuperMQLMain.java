@@ -19,8 +19,7 @@ import org.xml.sax.SAXException;
 
 import com.fervort.supermql.log.SuperLog;
 import com.fervort.supermql.myquery.MyQuery;
-import com.fervort.supermql.xml.ConfigReader;
-import com.fervort.supermql.xml.MyQueryReader;
+import com.fervort.supermql.xml.*;
 
 import matrix.db.Context;
 import matrix.util.MatrixException;

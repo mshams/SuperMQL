@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="groovy-json-3.0.0-beta-3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/groovy-json-3.0.0-beta-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jansi-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jline-0.9.91.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eMatrixServletRMI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../ext/eMatrixServletRMI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

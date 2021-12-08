@@ -1,6 +1,6 @@
 package com.fervort.supermql.log;
 
-import com.fervort.supermql.xml.ConfigReader;
+import com.fervort.supermql.xml.*;
 
 public class SuperLog {
 

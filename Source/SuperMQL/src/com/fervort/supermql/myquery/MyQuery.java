@@ -16,9 +16,8 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import com.fervort.supermql.SuperMQLSupport;
-import com.fervort.supermql.SuperUtilities;
-import com.fervort.supermql.xml.MyQueryReader;
+import com.fervort.supermql.*;
+import com.fervort.supermql.xml.*;
 
 public class MyQuery {
 	

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperMQL:jar">
+    <output-path>$PROJECT_DIR$/Source/SuperMQL/bin/artifacts/SuperMQL_jar</output-path>
+    <root id="archive" name="SuperMQL.jar">
+      <element id="module-output" name="SuperMQL" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/groovy-json-3.0.0-beta-3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jansi-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jline-0.9.91.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/groovy-all-1.1-rc-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-3.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-cli-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-logging-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ant-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ant-launcher-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jline-3.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../ext/eMatrixServletRMI.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
